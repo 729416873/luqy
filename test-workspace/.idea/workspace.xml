@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0312551-94f2-436b-8868-a8b7b070afe8" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addTest</find>
+      <find>port_is_used</find>
+      <find>init</find>
+      <find>pa</find>
+      <find>parame</find>
+      <find>Locator</find>
+      <find>cn.com.open.moo·</find>
+      <find>Activity</find>
+      <find>appWaitActivity</find>
+      <find>capabilities</find>
+      <find>cn.com.open.mooc</find>
+      <find>127.0.0.1:62025</find>
+      <find>0:01:16.044656</find>
+      <find>http://localhost:8200</find>
+      <find>62025</find>
+      <find>-P 5037 -s 127.0.0.1\:</find>
+      <find>-P 5037 -s 127.0.0.1\:62025 FOR</find>
+      <find>-P 5037 -s 127.0.0.1\:62026 FOR</find>
+      <find>2 device(s) connected</find>
+      <find>Stopping logcat capture</find>
+      <find>error</find>
+      <find>user</find>
+      <find>login</find>
+      <find>MC</find>
+      <find>activity</find>
+      <find>locked</find>
+      <find>—</find>
+      <find>这是log-</find>
+      <find>18368093839</find>
+      <find>log</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1Uv5ZBm1UlVxRc8eliJiR68DGxN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/case" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\pythonlearning\test-workspace\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/case" />
+      <recent name="$PROJECT_DIR$/business" />
+      <recent name="$PROJECT_DIR$/handle" />
+      <recent name="$PROJECT_DIR$/page" />
+      <recent name="$PROJECT_DIR$/util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_Excessive_case">
+    <configuration name="opera_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/opera_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="port_ios" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/port_ios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_ios" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/server_ios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start_appium" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/start_appium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_Excessive_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/test_Excessive_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.opera_excel" />
+      <item itemvalue="Python.start_appium" />
+      <item itemvalue="Python.port_ios" />
+      <item itemvalue="Python.server_ios" />
+      <item itemvalue="Python.test_Excessive_case" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_Excessive_case" />
+        <item itemvalue="Python.server_ios" />
+        <item itemvalue="Python.port_ios" />
+        <item itemvalue="Python.start_appium" />
+        <item itemvalue="Python.opera_excel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0312551-94f2-436b-8868-a8b7b070afe8" name="Default" comment="" />
+      <created>1544525902288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544525902288</updated>
+      <workItem from="1576224286654" duration="1675000" />
+      <workItem from="1578408511424" duration="2442000" />
+      <workItem from="1579153540041" duration="3534000" />
+      <workItem from="1579755366013" duration="23257000" />
+      <workItem from="1580985430964" duration="741000" />
+      <workItem from="1581043580834" duration="36427000" />
+      <workItem from="1581251517144" duration="291000" />
+      <workItem from="1581251972625" duration="146000" />
+      <workItem from="1581252206833" duration="459000" />
+      <workItem from="1581252856442" duration="91000" />
+      <workItem from="1581252951200" duration="186000" />
+      <workItem from="1581253406397" duration="1017000" />
+      <workItem from="1581254989285" duration="660000" />
+      <workItem from="1581393975366" duration="3830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581236787042">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581236787042" />
+    <state x="427" y="79" key="#pytest_in_test_Excessive_case.py" timestamp="1581228349237">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="79" key="#pytest_in_test_Excessive_case.py/0.0.1440.900@0.0.1440.900" timestamp="1581228349237" />
+    <state x="427" y="74" key="#read_init" timestamp="1578408637134">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="74" key="#read_init/0.0.1440.900@0.0.1440.900" timestamp="1578408637134" />
+    <state width="1097" height="466" key="DebuggerActiveHint" timestamp="1581232744025">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1097" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1581232744025" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1581251512383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581251512383" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1581251512383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581251512383" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1581251512382">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581251512382" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1581251512383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581251512383" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581251512387">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581251512387" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1581251512386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581251512386" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1581251512385">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581251512385" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1581251512386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581251512386" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1581254690375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581254690375" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1581393975889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581393975889" />
+    <state x="263" y="194" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581235602456">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="263" y="194" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1581235602456" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/test_Excessive_case.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/test_Excessive_case.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_workspace$test_Excessive_case.coverage" NAME="test_Excessive_case Coverage Results" MODIFIED="1581393996659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/test_workspace$opera_excel.coverage" NAME="opera_excel Coverage Results" MODIFIED="1580625946372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/test_workspace$dos_cmd.coverage" NAME="dos_cmd Coverage Results" MODIFIED="1580021219838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/test_workspace$pytest_in_test_case_py.coverage" NAME="pytest in test_case.py Coverage Results" MODIFIED="1580385379339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/test_workspace$port_ios.coverage" NAME="port_ios Coverage Results" MODIFIED="1581157523332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/test_workspace$pytest_in_test_Excessive_case_py.coverage" NAME="pytest in test_Excessive_case.py Coverage Results" MODIFIED="1581229155215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/test_workspace$pytest_in_use_unittest_case_py__1_.coverage" NAME="pytest in use_unittest_case管理.py (1) Coverage Results" MODIFIED="1579766644244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testrun" />
+    <SUITE FILE_PATH="coverage/test_workspace$pytest_in_use_unittest_case_py.coverage" NAME="pytest in use_unittest_case管理.py Coverage Results" MODIFIED="1579755151333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/test_workspace$start_appium.coverage" NAME="start_appium Coverage Results" MODIFIED="1581149569190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/test_workspace$server_ios.coverage" NAME="server_ios Coverage Results" MODIFIED="1581164911053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+  </component>
+</project>
